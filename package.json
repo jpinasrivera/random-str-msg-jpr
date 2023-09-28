@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jpr",
+  "version": "1.0.0",
+  "description": "Random String Mensajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpinasrivera/random-str-msg-jpr.git"
+  },
+  "keywords": [],
+  "author": "José Piñas <jpinasrivera@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpinasrivera/random-str-msg-jpr/issues"
+  },
+  "homepage": "https://github.com/jpinasrivera/random-str-msg-jpr#readme",
+  "bin": {
+    "random-str-msg-jpr": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
